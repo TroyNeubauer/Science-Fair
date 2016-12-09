@@ -1,0 +1,120 @@
+############# Black Image ##################
+
+Trial 1
+
+format jpg took 156.54776 milla seconds
+format gif took 29.539814 milla seconds
+format bmp took 22.776512 milla seconds
+format png took 61.795773 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 2
+
+format jpg took 151.06601 milla seconds
+format gif took 31.434397 milla seconds
+format bmp took 17.702988 milla seconds
+format png took 49.007687 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 3
+
+format jpg took 118.24137 milla seconds
+format gif took 31.086832 milla seconds
+format bmp took 18.512884 milla seconds
+format png took 49.06507 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 4
+
+format jpg took 95.48305 milla seconds
+format gif took 28.712654 milla seconds
+format bmp took 13.362383 milla seconds
+format png took 52.96947 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 5
+
+format jpg took 99.847916 milla seconds
+format gif took 35.27068 milla seconds
+format bmp took 19.404892 milla seconds
+format png took 58.824905 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 6
+
+format jpg took 101.81155 milla seconds
+format gif took 36.250862 milla seconds
+format bmp took 15.983821 milla seconds
+format png took 58.366768 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 7
+
+format jpg took 111.58209 milla seconds
+format gif took 28.778437 milla seconds
+format bmp took 28.295576 milla seconds
+format png took 58.191814 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 8
+
+format jpg took 113.76314 milla seconds
+format gif took 29.019632 milla seconds
+format bmp took 14.004796 milla seconds
+format png took 51.031033 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 9
+
+format jpg took 107.01476 milla seconds
+format gif took 30.42529 milla seconds
+format bmp took 13.693619 milla seconds
+format png took 50.195007 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
+
+
+Trial 10
+
+format jpg took 108.79271 milla seconds
+format gif took 31.869204 milla seconds
+format bmp took 22.49986 milla seconds
+format png took 46.58266 milla seconds
+File format jpg uese 33267 bytes to be stored
+File format gif uese 3510 bytes to be stored
+File format bmp uese 2074678 bytes to be stored
+File format png uese 2870 bytes to be stored
