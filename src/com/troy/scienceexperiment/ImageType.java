@@ -6,6 +6,11 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+/**
+ * Represents an image that is used
+ * @author Troy Neubauer
+ *
+ */
 public class ImageType {
 	
 	private BufferedImage image;

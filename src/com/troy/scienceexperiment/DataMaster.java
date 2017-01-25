@@ -5,14 +5,17 @@ import java.util.List;
 
 import com.troy.scienceexperiment.format.Format;
 
+/**
+ * A class to stash data about each test
+ * @author Troy Neubauer
+ *
+ */
 public class DataMaster {
-	private int trialCount;
 	private List<Format> formats;
 	private List<ImageType> images;
 	private List<DataMasterPoint> points;
 
-	public DataMaster(int trialCount) {
-		this.trialCount = trialCount;
+	public DataMaster() {
 		formats = new ArrayList<Format>();
 		images = new ArrayList<ImageType>();
 		points = new ArrayList<DataMasterPoint>();

@@ -2,6 +2,11 @@ package com.troy.scienceexperiment;
 
 import com.troy.scienceexperiment.format.Format;
 
+/**
+ * An instance of this class represents a single point of data for a single image format and trial
+ * @author Troy Neubauer
+ *
+ */
 public class Data {
 	
 	private final Format format;

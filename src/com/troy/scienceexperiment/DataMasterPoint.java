@@ -3,6 +3,11 @@ package com.troy.scienceexperiment;
 import com.troy.scienceexperiment.format.Format;
 import com.troyberry.util.NumberUtil;
 
+/**
+ * Represents a single data point in dataMaster (different than the data class)
+ * @author Troy Neubauer
+ *
+ */
 public class DataMasterPoint implements Comparable {
 	
 	private double timeInMS, sizeInKB, percent;
@@ -41,7 +46,7 @@ public class DataMasterPoint implements Comparable {
 
 	@Override
 	public int compareTo(Object o) {
-		DataMasterPoint point = (DataMasterPoint)o;
+		DataMasterPoint point = (DataMasterPoint)o;// Kinda unsafe but as long as we don't so something like this.compareTo(new String()) we *should* be fine
 		if(point.percent < this.percent) {
 			return +1;
 		} else if(point.percent > this.percent) {

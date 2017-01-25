@@ -4,6 +4,12 @@ import java.util.List;
 
 import com.troy.scienceexperiment.format.Format;
 
+/**
+ * Represents lossy data for a data point.
+ * As apposed to the data class, this class has many data points in it for each compression ratio
+ * @author Troy Neubauer
+ *
+ */
 public class LossyData extends Data {
 	
 	private List<Float> percents;

@@ -13,12 +13,23 @@ import javax.swing.text.html.HTMLDocument.HTMLReader.PreAction;
 import com.troy.scienceexperiment.*;
 import com.troyberry.util.NumberUtil;
 
+/**
+ * Represents the JPEG format
+ * @author Troy Neubauer
+ *
+ */
 public class JPEGFormat extends Format {
 
 	public JPEGFormat(List<ImageType> images) {
 		super(true, "jpg", images);
 	}
 
+	/**
+	 * Writes the images and gets the results. Doesn't call super.writeBasicImages() because JPEG needs to be exported for each
+	 * compression ratio. Very similar to the GIF formats method
+	 * @see Format#writeBasicImages(DataMaster);
+	 * @see GIFFormat#writeBasicImages(DataMaster)
+	 */
 	@Override
 	public List<Data> write(DataMaster dataMaster) {
 		System.out.println("\n\n######## Starting image format "+format.toUpperCase()+" ########");
